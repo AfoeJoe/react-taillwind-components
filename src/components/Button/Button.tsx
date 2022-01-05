@@ -61,6 +61,7 @@ const Button: FC<ButtonProps> = ({ label, size, variant = Variant.PRIMARY, class
       onClick={onClick}
     >
       {label}
+      hello
     </button>
   );
 };
