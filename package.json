@@ -1,6 +1,6 @@
 {
   "name": "react-tailwind-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Personal React common components on tailwind",
   "scripts": {
     "rollup": "rollup -c"
